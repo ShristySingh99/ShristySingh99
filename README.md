@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ShristySingh99
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning c++ programming language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+👩‍💻 Shristy Singh  
+📚 2nd Year CSE Student | GL Bajaj Institute of Technology & Management  
+
+🚀 Passionate about coding, problem-solving, and building impactful projects.  
+💡 Exploring Data Structures & Algorithms, Web Development, and API integration.  
+🔧 Skilled in C++, Python, and JavaScript with a focus on writing clean, efficient code.  
 
 <!---
 ShristySingh99/ShristySingh99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

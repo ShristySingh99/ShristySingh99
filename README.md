@@ -40,8 +40,6 @@ Currently exploring Data Structures & Algorithms, Web Development, and API integ
 ## 🚀 What I'm Working On
 
 - **DSA & CP Grind** — Consistent problem solving on LeetCode in C++, focusing on interview readiness.
-- **Web Dev Projects** — Building hands-on projects to strengthen frontend and backend fundamentals.
-- **Summer Assignment** — DSA (LeetCode) + OOP in C++ as part of GL Bajaj coursework.
 
 ---
 
@@ -70,15 +68,5 @@ A structured collection of DSA problems solved on LeetCode and OOP implementatio
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shristy-singh-b197992b5)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ShristySingh99)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shristy99/)
-
----
-
-## ⚡ Fun Facts
-
-- Currently on a DSA grind — one problem at a time 💪
-- Loves building things from scratch
-- Always up for a good coding challenge
-
----
 
 *Open to learning, collaborating, and growing. Let's build something awesome together!*
